@@ -53,6 +53,6 @@ Aisha,Ms. Claire,Pierre,Yvonne
 
 Why a Rule-Based Recommendation System?
 
-A rule-based recommendation system was chosen because it is simple, transparent, and effective for small datasets. Unlike machine-learning recommenders, a rule-based system does not require historical interaction data (ratings, bookings, clicks). Instead, it directly uses the attributes of students and tutors — such as language, programming focus, level, and hobbies to compute compatibility scores.
+A rule-based recommendation system was chosen because it is simple, transparent, and effective for small datasets. Unlike machine-learning recommenders, a rule-based system does not require historical interaction data (ratings, bookings, clicks). Instead, it directly uses the attributes of students and tutors such as language, programming focus, level, and hobbies to compute compatibility scores.
 
 This approach is ideal for scenarios with limited or no training data, because the logic can be manually defined and easily understood. It allows full explainability (“This tutor was selected because they speak English and teach Python”), is easy to maintain, and avoids unnecessary model complexity. Therefore, a rule-based recommender provides an appropriate and reliable solution for this task.
